@@ -1,0 +1,19 @@
+.light{
+    background-color: white;
+    color:black;
+}
+
+.dark{
+    background-color: black;
+    color:white;
+}
+
+button{
+    display:block;
+    margin:100px auto 0px auto;
+}
+h2{
+    margin:100px auto 0px auto;
+    text-align: center;
+    font-size: 40px;
+}
